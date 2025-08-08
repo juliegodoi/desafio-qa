@@ -1,6 +1,6 @@
 # Desafio QA
 
-Este projeto foi desenvolvido como teste técnico para a **Lacrei Saúde**, focando em testes de qualidade (QA) do sistema de pacientes.
+Este projeto foi desenvolvido como teste técnico para a **Lacrei Saúde**, focando em testes de qualidade (QA) do sistema de pacientes em ambiente de staging.
 
 ## 📋 Sobre o Projeto
 
@@ -35,8 +35,7 @@ Todos os **casos de teste**, **reports de bugs** e **sugestões de melhoria** es
 
 ### 1. Clonar o Repositório
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd desafio-qa-lacrei-saude
+git clone "https://github.com/juliegodoi/desafio-qa"
 ```
 
 ### 2. Instalar Dependências
